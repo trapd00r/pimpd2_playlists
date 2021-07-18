@@ -1,3 +1,0 @@
-2021-07-18 14:37:03,238: Your version of python-magic is too old.
-ERROR: ld.so: object '/home/scp1/dev/stderred/lib64/stderred.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
-ERROR: ld.so: object '/home/scp1/dev/stderred/lib64/stderred.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
